@@ -1,4 +1,4 @@
-### Hi there 👋
+### [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anazach)](https://github.com/anazach/github-readme-stats)
 
 <!--
 **anazach/anazach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
